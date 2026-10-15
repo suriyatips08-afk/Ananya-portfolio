@@ -34,6 +34,40 @@ const projects = [
     gallery: ['assets/site-pages/portfolio/18.webp','assets/site-pages/portfolio/19.webp','assets/site-pages/portfolio/20.webp','assets/site-pages/portfolio/21.webp','assets/site-pages/portfolio/22.webp','assets/site-pages/portfolio/23.webp','assets/site-pages/portfolio/24.webp','assets/site-pages/portfolio/26.webp','assets/site-pages/portfolio/27.webp','assets/site-pages/portfolio/28.webp','assets/site-pages/portfolio/29.webp','assets/site-pages/portfolio/31.webp','assets/site-pages/portfolio/32.webp','assets/site-pages/portfolio/34.webp','assets/hair-curler-sketch-01.webp','assets/hair-curler-sketch-02.webp','assets/hair-curler-sketch-03.webp','assets/hair-curler-sketch-04.webp','assets/hair-curler-sketch-05.webp','assets/hair-curler-sketch-06.webp','assets/hair-curler-sketch-07.webp','assets/hair-curler-sketch-08.webp','assets/hair-curler-sketch-09.webp','assets/hair-curler-sketch-10.webp','assets/hair-curler-sketch-11.webp','assets/hair-curler-sketch-12.webp','assets/hair-curler-sketch-13.webp','assets/hair-curler-sketch-14.webp','assets/hair-curler-sketch-15.webp']
   },
   {
+    title: 'XPO 2026: Auto-Rickshaw Installation',
+    category: 'Exhibition / Installation',
+    filters: ['exhibition', 'product design', 'sustainable'],
+    tags: ['VCD Pavilion', 'Upcycling', 'Installation'],
+    type: 'Exhibition installation', tools: 'Surface prep / Painting / Repair', status: 'XPO 2026 — overall head, 2026 batch',
+    cover: 'assets/xpo-auto-rickshaw-finished.webp', alt: 'Finished auto-rickshaw installation for the XPO 2026 VCD Pavilion',
+    intro: 'I helped turn a scrap auto-rickshaw into a screening space for the VCD Pavilion’s animation project at XPO 2026.',
+    copy: [
+      ['A scrap object, a shared build', 'As the overall XPO head for the 2026 batch, I worked with the VCD Pavilion representative as a core contributor. Together, we contributed roughly 90% of the installation work, taking the auto from a piece of junk to a public screening space.'],
+      ['Making it ready', 'The work began with grinding and sanding the old paint, followed by primer and putty to address structural dents. We then built up a first layer of crimson red and yellow paint before refixing the auto seat covers.'],
+      ['Finding the missing pieces', 'We hunted for a replacement hood in the market, applied the second paint layer, and fixed the hood and auto seats back into place. I also helped fix the windshield with Chinmay.'],
+      ['What it became', 'The final auto-rickshaw became a colourful, functional setting for the animation screening — a visible record of repair, coordination and hands-on exhibition making.']
+    ],
+    gallery: ['assets/xpo-auto-rickshaw-finished.webp','assets/xpo-process-capture-01.webp','assets/xpo-process-capture-02.webp']
+  },
+  {
+    title: 'Indian Handicrafts Pavilion',
+    category: 'Exhibition / Craft',
+    filters: ['exhibition', 'craft'],
+    tags: ['Lippan Art', 'Installation', 'Goodies Section'],
+    type: 'Pavilion installation support', tools: 'Craft making / Installation support', status: 'Indian Handicrafts Pavilion',
+    cover: 'assets/handicrafts-lippan-tiles.webp', alt: 'Colourful Lippan art tiles created for the Indian Handicrafts Pavilion',
+    intro: 'I assisted with installations and the goodies section at the Indian Handicrafts Pavilion, including a tile-based Lippan art exploration.',
+    copy: [
+      ['Lippan art tiles', 'We explored Lippan art through small tile-like designs. The process began by painting each square in a base colour of our choice, then using white 3D outliners to draw the motifs. Together, the tiles created a unified surface with a bright pop of colour.'],
+      ['Pavilion support', 'Alongside the Lippan art work, I assisted with the pavilion installations and helped in the goodies section. The role moved between making, arranging, and helping the visitor-facing parts of the pavilion come together.'],
+      ['Process documentation', 'The supplied process video and captures document the hands-on making behind the pavilion. Add detail here — final installation layout, dates, or the full team list.']
+    ],
+    gallery: ['assets/handicrafts-lippan-tiles.webp'],
+    video: 'assets/handicrafts-process-video.mp4',
+    videoPoster: 'assets/handicrafts-process-poster.webp',
+    videoCaption: 'Supplied process video — Indian Handicrafts Pavilion'
+  },
+  {
     title: 'BSNL Landline: Product Teardown',
     category: 'Product Analysis',
     filters: ['analysis'],
@@ -147,40 +181,6 @@ const projects = [
       ['A visual starting point', 'This is an early ideation study rather than a resolved product. Add detail here — selected direction, ergonomic criteria or next iteration.']
     ],
     gallery: ['assets/spray-sketches-01.webp','assets/spray-sketches-02.webp','assets/spray-sketches-03.webp']
-  },
-  {
-    title: 'XPO 2026: Auto-Rickshaw Installation',
-    category: 'Exhibition / Installation',
-    filters: ['exhibition', 'product design', 'sustainable'],
-    tags: ['VCD Pavilion', 'Upcycling', 'Installation'],
-    type: 'Exhibition installation', tools: 'Surface prep / Painting / Repair', status: 'XPO 2026 — overall head, 2026 batch',
-    cover: 'assets/xpo-auto-rickshaw-finished.webp', alt: 'Finished auto-rickshaw installation for the XPO 2026 VCD Pavilion',
-    intro: 'I helped turn a scrap auto-rickshaw into a screening space for the VCD Pavilion’s animation project at XPO 2026.',
-    copy: [
-      ['A scrap object, a shared build', 'As the overall XPO head for the 2026 batch, I worked with the VCD Pavilion representative as a core contributor. Together, we contributed roughly 90% of the installation work, taking the auto from a piece of junk to a public screening space.'],
-      ['Making it ready', 'The work began with grinding and sanding the old paint, followed by primer and putty to address structural dents. We then built up a first layer of crimson red and yellow paint before refixing the auto seat covers.'],
-      ['Finding the missing pieces', 'We hunted for a replacement hood in the market, applied the second paint layer, and fixed the hood and auto seats back into place. I also helped fix the windshield with Chinmay.'],
-      ['What it became', 'The final auto-rickshaw became a colourful, functional setting for the animation screening — a visible record of repair, coordination and hands-on exhibition making.']
-    ],
-    gallery: ['assets/xpo-auto-rickshaw-finished.webp','assets/xpo-process-capture-01.webp','assets/xpo-process-capture-02.webp']
-  },
-  {
-    title: 'Indian Handicrafts Pavilion',
-    category: 'Exhibition / Craft',
-    filters: ['exhibition', 'craft'],
-    tags: ['Lippan Art', 'Installation', 'Goodies Section'],
-    type: 'Pavilion installation support', tools: 'Craft making / Installation support', status: 'Indian Handicrafts Pavilion',
-    cover: 'assets/handicrafts-lippan-tiles.webp', alt: 'Colourful Lippan art tiles created for the Indian Handicrafts Pavilion',
-    intro: 'I assisted with installations and the goodies section at the Indian Handicrafts Pavilion, including a tile-based Lippan art exploration.',
-    copy: [
-      ['Lippan art tiles', 'We explored Lippan art through small tile-like designs. The process began by painting each square in a base colour of our choice, then using white 3D outliners to draw the motifs. Together, the tiles created a unified surface with a bright pop of colour.'],
-      ['Pavilion support', 'Alongside the Lippan art work, I assisted with the pavilion installations and helped in the goodies section. The role moved between making, arranging, and helping the visitor-facing parts of the pavilion come together.'],
-      ['Process documentation', 'The supplied process video and captures document the hands-on making behind the pavilion. Add detail here — final installation layout, dates, or the full team list.']
-    ],
-    gallery: ['assets/handicrafts-lippan-tiles.webp'],
-    video: 'assets/handicrafts-process-video.mp4',
-    videoPoster: 'assets/handicrafts-process-poster.webp',
-    videoCaption: 'Supplied process video — Indian Handicrafts Pavilion'
   }
 ];
 

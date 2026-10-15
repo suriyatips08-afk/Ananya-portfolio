@@ -34,6 +34,23 @@ const projects = [
     gallery: ['assets/site-pages/portfolio/18.webp','assets/site-pages/portfolio/19.webp','assets/site-pages/portfolio/20.webp','assets/site-pages/portfolio/21.webp','assets/site-pages/portfolio/22.webp','assets/site-pages/portfolio/23.webp','assets/site-pages/portfolio/24.webp','assets/site-pages/portfolio/26.webp','assets/site-pages/portfolio/27.webp','assets/site-pages/portfolio/28.webp','assets/site-pages/portfolio/29.webp','assets/site-pages/portfolio/31.webp','assets/site-pages/portfolio/32.webp','assets/site-pages/portfolio/34.webp','assets/hair-curler-sketch-01.webp','assets/hair-curler-sketch-02.webp','assets/hair-curler-sketch-03.webp','assets/hair-curler-sketch-04.webp','assets/hair-curler-sketch-05.webp','assets/hair-curler-sketch-06.webp','assets/hair-curler-sketch-07.webp','assets/hair-curler-sketch-08.webp','assets/hair-curler-sketch-09.webp','assets/hair-curler-sketch-10.webp','assets/hair-curler-sketch-11.webp','assets/hair-curler-sketch-12.webp','assets/hair-curler-sketch-13.webp','assets/hair-curler-sketch-14.webp','assets/hair-curler-sketch-15.webp']
   },
   {
+    title: 'Huecraft: Heritage-Inspired Area Rug',
+    category: 'Textile / Product Design',
+    filters: ['product design', 'craft'],
+    tags: ['Textile Design', 'Heritage Motifs', 'Material Research'],
+    type: 'Area rug concept', tools: 'Material research / Illustrator / Specification', status: 'Concept study',
+    cover: 'assets/huecraft/huecraft-athangudi-01.webp',
+    alt: 'Navy and sand geometric area-rug concept in a contemporary living room',
+    intro: 'A portable area-rug concept that brings Indian-inspired geometry into a lighter, easier-to-move home textile.',
+    copy: [
+      ['Research & framing', 'The brief explored a familiar tension: traditional carpets carry a rich craft vocabulary, but can be heavy to reposition and store. I researched carpet construction, motifs, materials and backing, then focused the concept on portability without losing a handcrafted feel.'],
+      ['Pattern directions', 'I developed two visual routes in Illustrator. The Athangudi study builds a framed composition from repeating geometric forms and a central medallion; the Jali study translates lattice-like geometry into a softer, symmetrical repeat. Room visualisations helped compare how each palette sits in a contemporary interior.'],
+      ['Material & construction', 'A wool–cotton pile blend brings together wool’s softness and colour depth with cotton’s lighter, more flexible character. I selected woven cotton textile backing to support breathability, rollability and repair, with a minimal anti-slip treatment noted in the specification.'],
+      ['Final specification', 'The documented concept is a 6 × 9 ft residential area rug, hand-tufted with an 8–10 mm pile and a 12–15 mm total thickness including backing. The brief specifies one prototype, with custom colour references developed from the Illustrator artwork.']
+    ],
+    gallery: ['assets/huecraft/huecraft-athangudi-02.webp','assets/huecraft/huecraft-athangudi-03.webp','assets/huecraft/huecraft-jali-01.webp','assets/huecraft/huecraft-jali-02.webp','assets/huecraft/huecraft-jali-03.webp','assets/huecraft/huecraft-jali-04.webp','assets/huecraft/huecraft-athangudi-pattern.webp','assets/huecraft/huecraft-jali-pattern.webp']
+  },
+  {
     title: 'XPO 2026: Auto-Rickshaw Installation',
     category: 'Exhibition / Installation',
     filters: ['exhibition', 'product design', 'sustainable'],
